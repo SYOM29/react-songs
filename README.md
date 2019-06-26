@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Overview
+React based songs application. Uses redux and react to show information about selected song.
+
 ## Available Scripts
 
 In the project directory, you can run:
